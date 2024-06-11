@@ -2,7 +2,7 @@
 
 ![Banner](https://i.postimg.cc/1Xrdv4jz/Grey-and-Brown-Watercolor-Welcome-Banner.png)
 
-Soy **QA Tester Junior** con una gran pasión por asegurar la calidad y mejorar la experiencia de usuario en cada proyecto en el que trabajo. Mi viaje en el mundo de la tecnología comenzó hace poco pero estoy entusiasmada por mejorar y seguir aprendiendo
+Soy **QA Tester** con una gran pasión por asegurar la calidad y mejorar la experiencia de usuario en cada proyecto en el que trabajo. Mi viaje en el mundo de la tecnología comenzó hace poco pero estoy entusiasmada por mejorar y seguir aprendiendo
 
 ## Sobre mí
 
