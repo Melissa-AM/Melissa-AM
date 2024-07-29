@@ -26,6 +26,10 @@ Soy **QA Tester** con una gran pasión por asegurar la calidad y mejorar la expe
 - 📧 Email: [melissa.amodio.w@gmail.com](mailto:melissa.amodio.w@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/melissa-amodio/)
 
+
+## #30NitesOfCode:
+  [My progreso en CodeDex!](https://www.codedex.io/@melissaam1745/30-nites-of-code)  
+  ![@melissaam1745 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=melissaam1745)
 ---
 
 
